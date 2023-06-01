@@ -9,6 +9,6 @@ Required: NodeJS 1.18.x or highest
 
 1. Clone the repository
 2. In repository cloned path use `npm i`
-3. Before instalation from node_modules use `npm start` or `npm expo start`
+3. Before instalation from node_modules use `npm start` or `npx expo start`
 
 To emulate I recommend use app Expo Go
